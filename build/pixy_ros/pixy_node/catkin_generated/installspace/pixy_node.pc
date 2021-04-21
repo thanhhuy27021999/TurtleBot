@@ -1,0 +1,8 @@
+prefix=/home/huy/dev/TurtleBot3_catkin_ws/install
+
+Name: pixy_node
+Description: Description of pixy_node
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lpixyusb
+Requires: message_runtime roscpp

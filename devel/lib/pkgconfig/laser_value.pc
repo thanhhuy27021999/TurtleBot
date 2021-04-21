@@ -1,0 +1,8 @@
+prefix=/home/huy/dev/TurtleBot3_catkin_ws/devel
+
+Name: laser_value
+Description: Description of laser_value
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

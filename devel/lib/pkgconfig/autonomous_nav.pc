@@ -1,0 +1,8 @@
+prefix=/home/huy/dev/TurtleBot3_catkin_ws/devel
+
+Name: autonomous_nav
+Description: Description of autonomous_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
